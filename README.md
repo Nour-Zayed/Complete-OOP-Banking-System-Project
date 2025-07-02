@@ -1,8 +1,8 @@
 ## 🚀 SmartBank — Modern Python OOP Banking System with GUI
+![image](https://github.com/user-attachments/assets/c0b3b745-d43e-498e-8c08-6c725d4fec17)
+![image](https://github.com/user-attachments/assets/4741a2a1-b071-460a-a0f6-9b825e66f7e8)
+![image](https://github.com/user-attachments/assets/0f977d55-471b-479b-a100-3f0da98bf062)
 
-![Screenshot (210)](https://github.com/user-attachments/assets/da8a3563-a16a-4cb3-bb31-8377a63880e6)
-![Screenshot (212)](https://github.com/user-attachments/assets/84347eda-000e-44da-8c3f-323248f9f5fa)
-![Screenshot (211)](https://github.com/user-attachments/assets/838284e3-db43-4e2d-ab00-0cbd756dd6f1)
 
 SmartBank is a sleek and interactive desktop banking management system built with Python, combining the power of OOP principles, CustomTkinter GUI, and a SQL Server database.
 It’s designed to handle customer records effortlessly, giving you full control over adding, updating, deleting, and searching customer profiles — all through a clean and user-friendly interface.
